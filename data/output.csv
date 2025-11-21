@@ -1,0 +1,35 @@
+MONTHLY SALES ANALYSIS REPORT
+==================================================
+
+FINAL DATASET WITH METRICS:
+Month,Product_A,Product_B,Product_C,Product_D,Total_Sales,Average_Sales,Month_over_Month_Growth,Quarter,Max_Sales_Product,Min_Sales_Product
+2025-01,59,72,50,25,206,51.5,,Q1,Product_B,Product_D
+2025-02,51,36,58,41,186,46.5,-9.71,Q1,Product_C,Product_B
+2025-03,60,77,27,41,205,51.25,10.22,Q1,Product_B,Product_C
+2025-04,78,65,42,28,213,53.25,3.9,Q2,Product_A,Product_D
+2025-05,61,33,40,45,179,44.75,-15.96,Q2,Product_A,Product_B
+2025-06,66,79,47,19,211,52.75,17.88,Q2,Product_B,Product_D
+2025-07,68,70,28,21,187,46.75,-11.37,Q3,Product_B,Product_D
+2025-08,96,55,56,36,243,60.75,29.95,Q3,Product_A,Product_D
+2025-09,67,50,46,44,207,51.75,-14.81,Q3,Product_A,Product_D
+2025-10,71,45,51,33,200,50.0,-3.38,Q4,Product_A,Product_D
+2025-11,55,57,24,31,167,41.75,-16.5,Q4,Product_B,Product_C
+2025-12,80,44,22,10,156,39.0,-6.59,Q4,Product_A,Product_D
+
+
+==================================================
+
+AVERAGE SALES PER QUARTER:
+Quarter,Product_A,Product_B,Product_C,Product_D,Total_Sales_Avg
+Q1,56.67,61.67,45.0,35.67,199.0
+Q2,68.33,59.0,43.0,30.67,201.0
+Q3,77.0,58.33,43.33,33.67,212.33
+Q4,68.67,48.67,32.33,24.67,174.33
+
+
+TOTAL SALES PER QUARTER:
+Quarter,Product_A,Product_B,Product_C,Product_D,Total_Sales
+Q1,170,185,135,107,597
+Q2,205,177,129,92,603
+Q3,231,175,130,101,637
+Q4,206,146,97,74,523
