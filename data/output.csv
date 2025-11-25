@@ -3,33 +3,33 @@ MONTHLY SALES ANALYSIS REPORT
 
 FINAL DATASET WITH METRICS:
 Month,Product_A,Product_B,Product_C,Product_D,Total_Sales,Average_Sales,Month_over_Month_Growth,Quarter,Max_Sales_Product,Min_Sales_Product
-2025-01,54,41,52,40,187,46.75,,Q1,Product_A,Product_D
-2025-02,93,77,58,15,243,60.75,29.95,Q1,Product_A,Product_D
-2025-03,65,73,29,14,181,45.25,-25.51,Q1,Product_B,Product_D
-2025-04,66,77,58,29,230,57.5,27.07,Q2,Product_B,Product_D
-2025-05,54,32,27,49,162,40.5,-29.57,Q2,Product_A,Product_C
-2025-06,56,38,20,20,134,33.5,-17.28,Q2,Product_A,Product_C
-2025-07,97,72,58,50,277,69.25,106.72,Q3,Product_A,Product_D
-2025-08,88,78,25,30,221,55.25,-20.22,Q3,Product_A,Product_C
-2025-09,61,64,40,24,189,47.25,-14.48,Q3,Product_B,Product_D
-2025-10,57,56,43,42,198,49.5,4.76,Q4,Product_A,Product_D
-2025-11,94,49,26,48,217,54.25,9.6,Q4,Product_A,Product_C
-2025-12,89,71,37,40,237,59.25,9.22,Q4,Product_A,Product_C
+2025-01,100,74,30,41,245,61.25,,Q1,Product_A,Product_C
+2025-02,60,38,33,14,145,36.25,-40.82,Q1,Product_A,Product_D
+2025-03,93,43,32,23,191,47.75,31.72,Q1,Product_A,Product_D
+2025-04,58,54,42,48,202,50.5,5.76,Q2,Product_A,Product_C
+2025-05,77,49,48,29,203,50.75,0.5,Q2,Product_A,Product_D
+2025-06,68,48,24,10,150,37.5,-26.11,Q2,Product_A,Product_D
+2025-07,76,74,32,27,209,52.25,39.33,Q3,Product_A,Product_D
+2025-08,93,64,23,47,227,56.75,8.61,Q3,Product_A,Product_C
+2025-09,65,59,30,49,203,50.75,-10.57,Q3,Product_A,Product_C
+2025-10,66,45,26,47,184,46.0,-9.36,Q4,Product_A,Product_C
+2025-11,67,41,30,12,150,37.5,-18.48,Q4,Product_A,Product_D
+2025-12,60,62,32,30,184,46.0,22.67,Q4,Product_B,Product_D
 
 
 ==================================================
 
 AVERAGE SALES PER QUARTER:
 Quarter,Product_A,Product_B,Product_C,Product_D,Total_Sales_Avg
-Q1,70.67,63.67,46.33,23.0,203.67
-Q2,58.67,49.0,35.0,32.67,175.33
-Q3,82.0,71.33,41.0,34.67,229.0
-Q4,80.0,58.67,35.33,43.33,217.33
+Q1,84.33,51.67,31.67,26.0,193.67
+Q2,67.67,50.33,38.0,29.0,185.0
+Q3,78.0,65.67,28.33,41.0,213.0
+Q4,64.33,49.33,29.33,29.67,172.67
 
 
 TOTAL SALES PER QUARTER:
 Quarter,Product_A,Product_B,Product_C,Product_D,Total_Sales
-Q1,212,191,139,69,611
-Q2,176,147,105,98,526
-Q3,246,214,123,104,687
-Q4,240,176,106,130,652
+Q1,253,155,95,78,581
+Q2,203,151,114,87,555
+Q3,234,197,85,123,639
+Q4,193,148,88,89,518
